@@ -6,18 +6,19 @@
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+BIBI's+GitHub!;💻+Front-End+Developer+💻&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=8299FF" alt="Example Usage - README Typing SVG"> -->
 
 <div>
-  <img src="https://github.com/user-attachments/assets/da5aee37-0436-4839-88e7-eab62aebf60a" height="195" />
+  <!-- <img src="https://github.com/user-attachments/assets/da5aee37-0436-4839-88e7-eab62aebf60a" height="195" /> -->
+  <img src="https://github.com/user-attachments/assets/35ec3eca-8e2f-4b4c-b719-6feea69c8178" height="194" />
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true&theme=discord_old_blurple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true" />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true&theme=discord_old_blurple"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=jeongsabibi&show_icons=true" />
+  </picture>
 </div>
 
 <!--내용 부분-->
